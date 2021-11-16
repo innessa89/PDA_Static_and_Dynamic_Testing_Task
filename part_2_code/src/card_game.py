@@ -31,7 +31,3 @@ class CardGame:
     return f"You have a total of {total}"
 
 
-
-
-
-  
